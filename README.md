@@ -88,7 +88,6 @@ The balanced accuracy scores and the precision and recall scores of all six mach
 * Recall Score Low Risk: 0.94
   
   
-
 ## Summary
 
 As seen in the results above, Easy Esemble AdaBoost Classifier has the highest balanced accuracy score of 0.93 and Combination (Over and Under) Sampling has the lowest balanced accuracy score of 0.52. Based on the results, I would recommend to the use the Easy Esemble AdaBoost Classifier model as it shows the best results out of all six machine learning models. This is because the result of 0.93 is the closest balanced accuracy score to 1 out of all the six models; and results that are nearest to the result of 1 show us the most accurate outcome. However, as the desired result would be the balanced accuracy score of 1, we should conduct more test to achieve a closer number.
